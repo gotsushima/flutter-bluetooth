@@ -2,6 +2,8 @@
 
 This is a mobile app for [T'z products watch winder](https://tzproducts.jp/).
 
+Currently under development.
+
 ## Technologies Used
 
 Flutter
