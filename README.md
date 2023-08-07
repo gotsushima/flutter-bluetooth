@@ -1,4 +1,4 @@
-# Flutter iOS/Android App for Bluetooth Remote Control
+# Flutter Mobile App for Bluetooth Remote Control
 
 This repository contains the source code for a mobile application designed to remotely control the [T'z Products Watch Winder](https://tzproducts.jp/) via Bluetooth.
 
